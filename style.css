@@ -1,0 +1,25 @@
+body {
+    position: relative;
+}
+section {
+    padding: 60px 0;
+}
+.card {
+    margin: 20px 0;
+}
+.cta-button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+.testimonials, .client-logos {
+    margin: 40px 0;
+}
+.client-logos img {
+    max-width: 100px;
+    margin: 20px;
+}
