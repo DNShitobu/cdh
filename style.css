@@ -82,12 +82,15 @@ body {
                 url('img/hero1.jpg') center/cover;
     display: flex;
     align-items: center;
+    justify-content: center;
     position: relative;
     overflow: hidden;
+    color: aliceblue;
 }
 
 .hero-content {
     padding-top: 80px;
+    text-align: center;
 }
 
 .hero-title {
@@ -105,7 +108,7 @@ body {
 
 .floating-brain {
     position: absolute;
-    right: -5%;
+    right: 5%;
     top: 50%;
     transform: translateY(-50%);
     width: 60%;
